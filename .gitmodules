@@ -3,4 +3,4 @@
 	url = https://github.com/DaveGamble/cJSON.git
 [submodule "varcommon"]
 	path = varcommon
-	url = git@gitlab2.pekauto.com:development/firmware/tools/libs/stplotvarcommon.git
+	url = https://github.com/Sanya-123/STplotVarCommon.git
